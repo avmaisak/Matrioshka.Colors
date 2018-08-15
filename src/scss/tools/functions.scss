@@ -1,0 +1,5 @@
+// Common functions
+
+@function color($color, $value: 500) {
+	@return map-get($color, $value);
+}

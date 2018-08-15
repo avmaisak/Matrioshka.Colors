@@ -1,0 +1,83 @@
+// web Safe Color Palette
+
+// Designers were encouraged to stick to these 216 "web-safe" colors in their websites
+// because there were a lot of 8-bit color displays when the 216-color palette was developed.
+// David Lehn and Hadley Stern discovered that only 22 of the 216 colors in the web-safe
+// palette are reliably displayed without inconsistent remapping on 16-bit computer displays.
+// They called these 22 colors the "really safe" palette;
+// it consists largely of shades of green, yellow, and blue, as can be seen in the table below
+// https://en.wikipedia.org/wiki/Web_colors
+// https://en.wikipedia.org/wiki/Web_colors#cite_note-13
+
+$clr-safe-111: #111;
+$clr-safe-222: #222;
+$clr-safe-333: #333;
+$clr-safe-444: #444;
+$clr-safe-555: #555;
+$clr-safe-666: #666;
+$clr-safe-777: #777;
+$clr-safe-888: #888;
+$clr-safe-999: #999;
+$clr-safe-000: #000;
+$clr-safe-003: #003;
+$clr-safe-00F: #00F;
+$clr-safe-0F0: #0F0;
+$clr-safe-0F6: #0F6;
+$clr-safe-0FC: #0FC;
+$clr-safe-0FF: #0FF;
+$clr-safe-3F3: #3F3;
+$clr-safe-3F6: #3F6;
+$clr-safe-3FC: #3FC;
+$clr-safe-3FF: #3FF;
+$clr-safe-6F0: #6F0;
+$clr-safe-6F3: #6F3;
+$clr-safe-6FF: #6FF;
+$clr-safe-CF6: #CF6;
+$clr-safe-F00: #F00;
+$clr-safe-F03: #F03;
+$clr-safe-F0F: #F0F;
+$clr-safe-FF0: #FF0;
+$clr-safe-FF3: #FF3;
+$clr-safe-FF6: #FF6;
+$clr-safe-FF9: #FF9;
+$clr-safe-FFF: #FFF;
+$clr-safe-CCC: #CCC;
+
+$clr-black: $clr-safe-000;
+$clr-white: $clr-safe-FFF;
+$clr-grey:  $clr-safe-CCC;
+//Web Default
+$clr-webdef-aqua:    #00FFFF;
+$clr-webdef-blue:    #0000FF;
+$clr-webdef-fuchsia: #FF00FF;
+$clr-webdef-gray:    #808080;
+$clr-webdef-indigo:  #6610f2;
+$clr-webdef-lime:    #00FF00;
+$clr-webdef-maroon:  #800000;
+$clr-webdef-navy:    #000080;
+$clr-webdef-olive:   #808000;
+$clr-webdef-purple:  #800080;
+$clr-webdef-pink:    #e83e8c;
+$clr-webdef-red:     #FF0000;
+$clr-webdef-silver:  #C0C0C0;
+$clr-webdef-teal:    #008080;
+$clr-webdef-orange:  #fd7e14;
+$clr-webdef-yellow:  #FFFF00;
+$clr-webdef-green:   #008000;
+$clr-webdef-teal:    #20c997;
+$clr-webdef-cyan:    #17a2b8;
+
+$gray-100: $clr-safe-111;
+$gray-200: $clr-safe-222;
+$gray-300: $clr-safe-333;
+$gray-400: $clr-safe-444;
+$gray-500: $clr-safe-555;
+$gray-600: $clr-safe-666;
+$gray-700: $clr-safe-777;
+$gray-800: $clr-safe-888;
+$gray-900: $clr-safe-999;
+
+$grey-safe:(100:$gray-100,200:$gray-200,300:$gray-300,400:$gray-400,500:$gray-500,600:$gray-600,700:$gray-700,800:$gray-800,900:$gray-900);
+$pal-safe :(003:$clr-safe-003,00F:$clr-safe-00F,0F0:$clr-safe-0F0,0F6:$clr-safe-0F6,0FC:$clr-safe-0FC,0FF:$clr-safe-0FF,3F3:$clr-safe-3F3,3F6:$clr-safe-3F6,3FC:$clr-safe-3FC,3FF:$clr-safe-3FF,6F0:$clr-safe-6F0,6F3:$clr-safe-6F3,6FF:$clr-safe-6FF,CF6:$clr-safe-CF6,F00:$clr-safe-F00,F03:$clr-safe-F03,F0F:$clr-safe-F0F,FF0:$clr-safe-FF0,FF3:$clr-safe-FF3,FF6:$clr-safe-FF6,FF9:$clr-safe-FF9,FFF:$clr-safe-FFF,CCC:$clr-safe-CCC, 000:$clr-safe-000);
+$pal-web :(aqua:$clr-webdef-aqua,blue:$clr-webdef-blue,fuchsia:$clr-webdef-fuchsia,gray:$clr-webdef-gray,indigo:$clr-webdef-indigo,lime:$clr-webdef-lime,maroon:$clr-webdef-maroon,navy:$clr-webdef-navy,olive:$clr-webdef-olive,purple:$clr-webdef-purple,pink:$clr-webdef-pink,red:$clr-webdef-red,silver:$clr-webdef-silver,teal:$clr-webdef-teal,orange:$clr-webdef-orange,yellow:$clr-webdef-yellow);
+$pal-def :(black:$clr-black, white:$clr-white, grey: $clr-grey);
