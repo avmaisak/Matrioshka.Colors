@@ -1,0 +1,1620 @@
+
+.CRAYOLA_Red-bg {
+background-color:#ED0A3F;
+}
+.CRAYOLA_Red-clr {
+color:#ED0A3F;
+}
+.CRAYOLA_Red-brd {
+border-color:#ED0A3F;
+}
+
+.CRAYOLA_Maroon-bg {
+background-color:#C32148;
+}
+.CRAYOLA_Maroon-clr {
+color:#C32148;
+}
+.CRAYOLA_Maroon-brd {
+border-color:#C32148;
+}
+
+.CRAYOLA_Scarlet-bg {
+background-color:#FD0E35;
+}
+.CRAYOLA_Scarlet-clr {
+color:#FD0E35;
+}
+.CRAYOLA_Scarlet-brd {
+border-color:#FD0E35;
+}
+
+.CRAYOLA_Brick_Red-bg {
+background-color:#C62D42;
+}
+.CRAYOLA_Brick_Red-clr {
+color:#C62D42;
+}
+.CRAYOLA_Brick_Red-brd {
+border-color:#C62D42;
+}
+
+.CRAYOLA_English_Vermilion-bg {
+background-color:#CC474B;
+}
+.CRAYOLA_English_Vermilion-clr {
+color:#CC474B;
+}
+.CRAYOLA_English_Vermilion-brd {
+border-color:#CC474B;
+}
+
+.CRAYOLA_Madder_Lake-bg {
+background-color:#CC3336;
+}
+.CRAYOLA_Madder_Lake-clr {
+color:#CC3336;
+}
+.CRAYOLA_Madder_Lake-brd {
+border-color:#CC3336;
+}
+
+.CRAYOLA_Permanent_Geranium_Lake-bg {
+background-color:#E12C2C;
+}
+.CRAYOLA_Permanent_Geranium_Lake-clr {
+color:#E12C2C;
+}
+.CRAYOLA_Permanent_Geranium_Lake-brd {
+border-color:#E12C2C;
+}
+
+.CRAYOLA_Maximum_Red-bg {
+background-color:#D92121;
+}
+.CRAYOLA_Maximum_Red-clr {
+color:#D92121;
+}
+.CRAYOLA_Maximum_Red-brd {
+border-color:#D92121;
+}
+
+.CRAYOLA_Indian_Red-bg {
+background-color:#B94E48;
+}
+.CRAYOLA_Indian_Red-clr {
+color:#B94E48;
+}
+.CRAYOLA_Indian_Red-brd {
+border-color:#B94E48;
+}
+
+.CRAYOLA_Orange-Red-bg {
+background-color:#FF5349;
+}
+.CRAYOLA_Orange-Red-clr {
+color:#FF5349;
+}
+.CRAYOLA_Orange-Red-brd {
+border-color:#FF5349;
+}
+
+.CRAYOLA_Sunset_Orange-bg {
+background-color:#FE4C40;
+}
+.CRAYOLA_Sunset_Orange-clr {
+color:#FE4C40;
+}
+.CRAYOLA_Sunset_Orange-brd {
+border-color:#FE4C40;
+}
+
+.CRAYOLA_Bittersweet-bg {
+background-color:#FE6F5E;
+}
+.CRAYOLA_Bittersweet-clr {
+color:#FE6F5E;
+}
+.CRAYOLA_Bittersweet-brd {
+border-color:#FE6F5E;
+}
+
+.CRAYOLA_Dark_Venetian_Red-bg {
+background-color:#B33B24;
+}
+.CRAYOLA_Dark_Venetian_Red-clr {
+color:#B33B24;
+}
+.CRAYOLA_Dark_Venetian_Red-brd {
+border-color:#B33B24;
+}
+
+.CRAYOLA_Venetian_Red-bg {
+background-color:#CC553D;
+}
+.CRAYOLA_Venetian_Red-clr {
+color:#CC553D;
+}
+.CRAYOLA_Venetian_Red-brd {
+border-color:#CC553D;
+}
+
+.CRAYOLA_Light_Venetian_Red-bg {
+background-color:#E6735C;
+}
+.CRAYOLA_Light_Venetian_Red-clr {
+color:#E6735C;
+}
+.CRAYOLA_Light_Venetian_Red-brd {
+border-color:#E6735C;
+}
+
+.CRAYOLA_Vivid_Tangerine-bg {
+background-color:#FF9980;
+}
+.CRAYOLA_Vivid_Tangerine-clr {
+color:#FF9980;
+}
+.CRAYOLA_Vivid_Tangerine-brd {
+border-color:#FF9980;
+}
+
+.CRAYOLA_Middle_Red-bg {
+background-color:#E58E73;
+}
+.CRAYOLA_Middle_Red-clr {
+color:#E58E73;
+}
+.CRAYOLA_Middle_Red-brd {
+border-color:#E58E73;
+}
+
+.CRAYOLA_Burnt_Orange-bg {
+background-color:#FF7F49;
+}
+.CRAYOLA_Burnt_Orange-clr {
+color:#FF7F49;
+}
+.CRAYOLA_Burnt_Orange-brd {
+border-color:#FF7F49;
+}
+
+.CRAYOLA_Red-Orange-bg {
+background-color:#FF681F;
+}
+.CRAYOLA_Red-Orange-clr {
+color:#FF681F;
+}
+.CRAYOLA_Red-Orange-brd {
+border-color:#FF681F;
+}
+
+.CRAYOLA_Orange-bg {
+background-color:#FF8833;
+}
+.CRAYOLA_Orange-clr {
+color:#FF8833;
+}
+.CRAYOLA_Orange-brd {
+border-color:#FF8833;
+}
+
+.CRAYOLA_Macaroni_and_Cheese-bg {
+background-color:#FFB97B;
+}
+.CRAYOLA_Macaroni_and_Cheese-clr {
+color:#FFB97B;
+}
+.CRAYOLA_Macaroni_and_Cheese-brd {
+border-color:#FFB97B;
+}
+
+.CRAYOLA_Middle_Yellow_Red-bg {
+background-color:#ECB176;
+}
+.CRAYOLA_Middle_Yellow_Red-clr {
+color:#ECB176;
+}
+.CRAYOLA_Middle_Yellow_Red-brd {
+border-color:#ECB176;
+}
+
+.CRAYOLA_Mango_Tango-bg {
+background-color:#E77200;
+}
+.CRAYOLA_Mango_Tango-clr {
+color:#E77200;
+}
+.CRAYOLA_Mango_Tango-brd {
+border-color:#E77200;
+}
+
+.CRAYOLA_Yellow-Orange-bg {
+background-color:#FFAE42;
+}
+.CRAYOLA_Yellow-Orange-clr {
+color:#FFAE42;
+}
+.CRAYOLA_Yellow-Orange-brd {
+border-color:#FFAE42;
+}
+
+.CRAYOLA_Maximum_Yellow_Red-bg {
+background-color:#F2BA49;
+}
+.CRAYOLA_Maximum_Yellow_Red-clr {
+color:#F2BA49;
+}
+.CRAYOLA_Maximum_Yellow_Red-brd {
+border-color:#F2BA49;
+}
+
+.CRAYOLA_Banana_Mania-bg {
+background-color:#FBE7B2;
+}
+.CRAYOLA_Banana_Mania-clr {
+color:#FBE7B2;
+}
+.CRAYOLA_Banana_Mania-brd {
+border-color:#FBE7B2;
+}
+
+.CRAYOLA_Maize-bg {
+background-color:#F2C649;
+}
+.CRAYOLA_Maize-clr {
+color:#F2C649;
+}
+.CRAYOLA_Maize-brd {
+border-color:#F2C649;
+}
+
+.CRAYOLA_Orange-Yellow-bg {
+background-color:#F8D568;
+}
+.CRAYOLA_Orange-Yellow-clr {
+color:#F8D568;
+}
+.CRAYOLA_Orange-Yellow-brd {
+border-color:#F8D568;
+}
+
+.CRAYOLA_Goldenrod-bg {
+background-color:#FCD667;
+}
+.CRAYOLA_Goldenrod-clr {
+color:#FCD667;
+}
+.CRAYOLA_Goldenrod-brd {
+border-color:#FCD667;
+}
+
+.CRAYOLA_Dandelion-bg {
+background-color:#FED85D;
+}
+.CRAYOLA_Dandelion-clr {
+color:#FED85D;
+}
+.CRAYOLA_Dandelion-brd {
+border-color:#FED85D;
+}
+
+.CRAYOLA_Yellow-bg {
+background-color:#FBE870;
+}
+.CRAYOLA_Yellow-clr {
+color:#FBE870;
+}
+.CRAYOLA_Yellow-brd {
+border-color:#FBE870;
+}
+
+.CRAYOLA_Green-Yellow-bg {
+background-color:#F1E788;
+}
+.CRAYOLA_Green-Yellow-clr {
+color:#F1E788;
+}
+.CRAYOLA_Green-Yellow-brd {
+border-color:#F1E788;
+}
+
+.CRAYOLA_Middle_Yellow-bg {
+background-color:#FFEB00;
+}
+.CRAYOLA_Middle_Yellow-clr {
+color:#FFEB00;
+}
+.CRAYOLA_Middle_Yellow-brd {
+border-color:#FFEB00;
+}
+
+.CRAYOLA_Olive_Green-bg {
+background-color:#B5B35C;
+}
+.CRAYOLA_Olive_Green-clr {
+color:#B5B35C;
+}
+.CRAYOLA_Olive_Green-brd {
+border-color:#B5B35C;
+}
+
+.CRAYOLA_Spring_Green-bg {
+background-color:#ECEBBD;
+}
+.CRAYOLA_Spring_Green-clr {
+color:#ECEBBD;
+}
+.CRAYOLA_Spring_Green-brd {
+border-color:#ECEBBD;
+}
+
+.CRAYOLA_Maximum_Yellow-bg {
+background-color:#FAFA37;
+}
+.CRAYOLA_Maximum_Yellow-clr {
+color:#FAFA37;
+}
+.CRAYOLA_Maximum_Yellow-brd {
+border-color:#FAFA37;
+}
+
+.CRAYOLA_Canary-bg {
+background-color:#FFFF99;
+}
+.CRAYOLA_Canary-clr {
+color:#FFFF99;
+}
+.CRAYOLA_Canary-brd {
+border-color:#FFFF99;
+}
+
+.CRAYOLA_Lemon_Yellow-bg {
+background-color:#FFFF9F;
+}
+.CRAYOLA_Lemon_Yellow-clr {
+color:#FFFF9F;
+}
+.CRAYOLA_Lemon_Yellow-brd {
+border-color:#FFFF9F;
+}
+
+.CRAYOLA_Maximum_Green_Yellow-bg {
+background-color:#D9E650;
+}
+.CRAYOLA_Maximum_Green_Yellow-clr {
+color:#D9E650;
+}
+.CRAYOLA_Maximum_Green_Yellow-brd {
+border-color:#D9E650;
+}
+
+.CRAYOLA_Middle_Green_Yellow-bg {
+background-color:#ACBF60;
+}
+.CRAYOLA_Middle_Green_Yellow-clr {
+color:#ACBF60;
+}
+.CRAYOLA_Middle_Green_Yellow-brd {
+border-color:#ACBF60;
+}
+
+.CRAYOLA_Inchworm-bg {
+background-color:#AFE313;
+}
+.CRAYOLA_Inchworm-clr {
+color:#AFE313;
+}
+.CRAYOLA_Inchworm-brd {
+border-color:#AFE313;
+}
+
+.CRAYOLA_Light_Chrome_Green-bg {
+background-color:#BEE64B;
+}
+.CRAYOLA_Light_Chrome_Green-clr {
+color:#BEE64B;
+}
+.CRAYOLA_Light_Chrome_Green-brd {
+border-color:#BEE64B;
+}
+
+.CRAYOLA_Yellow-Green-bg {
+background-color:#C5E17A;
+}
+.CRAYOLA_Yellow-Green-clr {
+color:#C5E17A;
+}
+.CRAYOLA_Yellow-Green-brd {
+border-color:#C5E17A;
+}
+
+.CRAYOLA_Maximum_Green-bg {
+background-color:#5E8C31;
+}
+.CRAYOLA_Maximum_Green-clr {
+color:#5E8C31;
+}
+.CRAYOLA_Maximum_Green-brd {
+border-color:#5E8C31;
+}
+
+.CRAYOLA_Asparagus-bg {
+background-color:#7BA05B;
+}
+.CRAYOLA_Asparagus-clr {
+color:#7BA05B;
+}
+.CRAYOLA_Asparagus-brd {
+border-color:#7BA05B;
+}
+
+.CRAYOLA_Granny_Smith_Apple-bg {
+background-color:#9DE093;
+}
+.CRAYOLA_Granny_Smith_Apple-clr {
+color:#9DE093;
+}
+.CRAYOLA_Granny_Smith_Apple-brd {
+border-color:#9DE093;
+}
+
+.CRAYOLA_Fern-bg {
+background-color:#63B76C;
+}
+.CRAYOLA_Fern-clr {
+color:#63B76C;
+}
+.CRAYOLA_Fern-brd {
+border-color:#63B76C;
+}
+
+.CRAYOLA_Middle_Green-bg {
+background-color:#4D8C57;
+}
+.CRAYOLA_Middle_Green-clr {
+color:#4D8C57;
+}
+.CRAYOLA_Middle_Green-brd {
+border-color:#4D8C57;
+}
+
+.CRAYOLA_Green-bg {
+background-color:#3AA655;
+}
+.CRAYOLA_Green-clr {
+color:#3AA655;
+}
+.CRAYOLA_Green-brd {
+border-color:#3AA655;
+}
+
+.CRAYOLA_Medium_Chrome_Green-bg {
+background-color:#6CA67C;
+}
+.CRAYOLA_Medium_Chrome_Green-clr {
+color:#6CA67C;
+}
+.CRAYOLA_Medium_Chrome_Green-brd {
+border-color:#6CA67C;
+}
+
+.CRAYOLA_Forest_Green-bg {
+background-color:#5FA777;
+}
+.CRAYOLA_Forest_Green-clr {
+color:#5FA777;
+}
+.CRAYOLA_Forest_Green-brd {
+border-color:#5FA777;
+}
+
+.CRAYOLA_Sea_Green-bg {
+background-color:#93DFB8;
+}
+.CRAYOLA_Sea_Green-clr {
+color:#93DFB8;
+}
+.CRAYOLA_Sea_Green-brd {
+border-color:#93DFB8;
+}
+
+.CRAYOLA_Shamrock-bg {
+background-color:#33CC99;
+}
+.CRAYOLA_Shamrock-clr {
+color:#33CC99;
+}
+.CRAYOLA_Shamrock-brd {
+border-color:#33CC99;
+}
+
+.CRAYOLA_Mountain_Meadow-bg {
+background-color:#1AB385;
+}
+.CRAYOLA_Mountain_Meadow-clr {
+color:#1AB385;
+}
+.CRAYOLA_Mountain_Meadow-brd {
+border-color:#1AB385;
+}
+
+.CRAYOLA_Jungle_Green-bg {
+background-color:#29AB87;
+}
+.CRAYOLA_Jungle_Green-clr {
+color:#29AB87;
+}
+.CRAYOLA_Jungle_Green-brd {
+border-color:#29AB87;
+}
+
+.CRAYOLA_Caribbean_Green-bg {
+background-color:#00CC99;
+}
+.CRAYOLA_Caribbean_Green-clr {
+color:#00CC99;
+}
+.CRAYOLA_Caribbean_Green-brd {
+border-color:#00CC99;
+}
+
+.CRAYOLA_Tropical_Rain_Forest-bg {
+background-color:#00755E;
+}
+.CRAYOLA_Tropical_Rain_Forest-clr {
+color:#00755E;
+}
+.CRAYOLA_Tropical_Rain_Forest-brd {
+border-color:#00755E;
+}
+
+.CRAYOLA_Middle_Blue_Green-bg {
+background-color:#8DD9CC;
+}
+.CRAYOLA_Middle_Blue_Green-clr {
+color:#8DD9CC;
+}
+.CRAYOLA_Middle_Blue_Green-brd {
+border-color:#8DD9CC;
+}
+
+.CRAYOLA_Pine_Green-bg {
+background-color:#01786F;
+}
+.CRAYOLA_Pine_Green-clr {
+color:#01786F;
+}
+.CRAYOLA_Pine_Green-brd {
+border-color:#01786F;
+}
+
+.CRAYOLA_Maximum_Blue_Green-bg {
+background-color:#30BFBF;
+}
+.CRAYOLA_Maximum_Blue_Green-clr {
+color:#30BFBF;
+}
+.CRAYOLA_Maximum_Blue_Green-brd {
+border-color:#30BFBF;
+}
+
+.CRAYOLA_Robins_Egg_Blue-bg {
+background-color:#00CCCC;
+}
+.CRAYOLA_Robins_Egg_Blue-clr {
+color:#00CCCC;
+}
+.CRAYOLA_Robins_Egg_Blue-brd {
+border-color:#00CCCC;
+}
+
+.CRAYOLA_Teal_Blue-bg {
+background-color:#008080;
+}
+.CRAYOLA_Teal_Blue-clr {
+color:#008080;
+}
+.CRAYOLA_Teal_Blue-brd {
+border-color:#008080;
+}
+
+.CRAYOLA_Light_Blue-bg {
+background-color:#8FD8D8;
+}
+.CRAYOLA_Light_Blue-clr {
+color:#8FD8D8;
+}
+.CRAYOLA_Light_Blue-brd {
+border-color:#8FD8D8;
+}
+
+.CRAYOLA_Aquamarine-bg {
+background-color:#95E0E8;
+}
+.CRAYOLA_Aquamarine-clr {
+color:#95E0E8;
+}
+.CRAYOLA_Aquamarine-brd {
+border-color:#95E0E8;
+}
+
+.CRAYOLA_Turquoise_Blue-bg {
+background-color:#6CDAE7;
+}
+.CRAYOLA_Turquoise_Blue-clr {
+color:#6CDAE7;
+}
+.CRAYOLA_Turquoise_Blue-brd {
+border-color:#6CDAE7;
+}
+
+.CRAYOLA_Outer_Space-bg {
+background-color:#2D383A;
+}
+.CRAYOLA_Outer_Space-clr {
+color:#2D383A;
+}
+.CRAYOLA_Outer_Space-brd {
+border-color:#2D383A;
+}
+
+.CRAYOLA_Sky_Blue-bg {
+background-color:#76D7EA;
+}
+.CRAYOLA_Sky_Blue-clr {
+color:#76D7EA;
+}
+.CRAYOLA_Sky_Blue-brd {
+border-color:#76D7EA;
+}
+
+.CRAYOLA_Middle_Blue-bg {
+background-color:#7ED4E6;
+}
+.CRAYOLA_Middle_Blue-clr {
+color:#7ED4E6;
+}
+.CRAYOLA_Middle_Blue-brd {
+border-color:#7ED4E6;
+}
+
+.CRAYOLA_Blue-Green-bg {
+background-color:#0095B7;
+}
+.CRAYOLA_Blue-Green-clr {
+color:#0095B7;
+}
+.CRAYOLA_Blue-Green-brd {
+border-color:#0095B7;
+}
+
+.CRAYOLA_Pacific_Blue-bg {
+background-color:#009DC4;
+}
+.CRAYOLA_Pacific_Blue-clr {
+color:#009DC4;
+}
+.CRAYOLA_Pacific_Blue-brd {
+border-color:#009DC4;
+}
+
+.CRAYOLA_Cerulean-bg {
+background-color:#02A4D3;
+}
+.CRAYOLA_Cerulean-clr {
+color:#02A4D3;
+}
+.CRAYOLA_Cerulean-brd {
+border-color:#02A4D3;
+}
+
+.CRAYOLA_Maximum_Blue-bg {
+background-color:#47ABCC;
+}
+.CRAYOLA_Maximum_Blue-clr {
+color:#47ABCC;
+}
+.CRAYOLA_Maximum_Blue-brd {
+border-color:#47ABCC;
+}
+
+.CRAYOLA_Blue_1-bg {
+background-color:#4997D0;
+}
+.CRAYOLA_Blue_1-clr {
+color:#4997D0;
+}
+.CRAYOLA_Blue_1-brd {
+border-color:#4997D0;
+}
+
+.CRAYOLA_Cerulean_Blue-bg {
+background-color:#339ACC;
+}
+.CRAYOLA_Cerulean_Blue-clr {
+color:#339ACC;
+}
+.CRAYOLA_Cerulean_Blue-brd {
+border-color:#339ACC;
+}
+
+.CRAYOLA_Cornflower-bg {
+background-color:#93CCEA;
+}
+.CRAYOLA_Cornflower-clr {
+color:#93CCEA;
+}
+.CRAYOLA_Cornflower-brd {
+border-color:#93CCEA;
+}
+
+.CRAYOLA_Green-Blue-bg {
+background-color:#2887C8;
+}
+.CRAYOLA_Green-Blue-clr {
+color:#2887C8;
+}
+.CRAYOLA_Green-Blue-brd {
+border-color:#2887C8;
+}
+
+.CRAYOLA_Midnight_Blue-bg {
+background-color:#00468C;
+}
+.CRAYOLA_Midnight_Blue-clr {
+color:#00468C;
+}
+.CRAYOLA_Midnight_Blue-brd {
+border-color:#00468C;
+}
+
+.CRAYOLA_Navy_Blue-bg {
+background-color:#0066CC;
+}
+.CRAYOLA_Navy_Blue-clr {
+color:#0066CC;
+}
+.CRAYOLA_Navy_Blue-brd {
+border-color:#0066CC;
+}
+
+.CRAYOLA_Denim-bg {
+background-color:#1560BD;
+}
+.CRAYOLA_Denim-clr {
+color:#1560BD;
+}
+.CRAYOLA_Denim-brd {
+border-color:#1560BD;
+}
+
+.CRAYOLA_Blue_3-bg {
+background-color:#0066FF;
+}
+.CRAYOLA_Blue_3-clr {
+color:#0066FF;
+}
+.CRAYOLA_Blue_3-brd {
+border-color:#0066FF;
+}
+
+.CRAYOLA_Cadet_Blue-bg {
+background-color:#A9B2C3;
+}
+.CRAYOLA_Cadet_Blue-clr {
+color:#A9B2C3;
+}
+.CRAYOLA_Cadet_Blue-brd {
+border-color:#A9B2C3;
+}
+
+.CRAYOLA_Periwinkle-bg {
+background-color:#C3CDE6;
+}
+.CRAYOLA_Periwinkle-clr {
+color:#C3CDE6;
+}
+.CRAYOLA_Periwinkle-brd {
+border-color:#C3CDE6;
+}
+
+.CRAYOLA_Blue_2-bg {
+background-color:#4570E6;
+}
+.CRAYOLA_Blue_2-clr {
+color:#4570E6;
+}
+.CRAYOLA_Blue_2-brd {
+border-color:#4570E6;
+}
+
+.CRAYOLA_Wild_Blue_Yonder-bg {
+background-color:#7A89B8;
+}
+.CRAYOLA_Wild_Blue_Yonder-clr {
+color:#7A89B8;
+}
+.CRAYOLA_Wild_Blue_Yonder-brd {
+border-color:#7A89B8;
+}
+
+.CRAYOLA_Indigo-bg {
+background-color:#4F69C6;
+}
+.CRAYOLA_Indigo-clr {
+color:#4F69C6;
+}
+.CRAYOLA_Indigo-brd {
+border-color:#4F69C6;
+}
+
+.CRAYOLA_Manatee-bg {
+background-color:#8D90A1;
+}
+.CRAYOLA_Manatee-clr {
+color:#8D90A1;
+}
+.CRAYOLA_Manatee-brd {
+border-color:#8D90A1;
+}
+
+.CRAYOLA_Cobalt_Blue-bg {
+background-color:#8C90C8;
+}
+.CRAYOLA_Cobalt_Blue-clr {
+color:#8C90C8;
+}
+.CRAYOLA_Cobalt_Blue-brd {
+border-color:#8C90C8;
+}
+
+.CRAYOLA_Celestial_Blue-bg {
+background-color:#7070CC;
+}
+.CRAYOLA_Celestial_Blue-clr {
+color:#7070CC;
+}
+.CRAYOLA_Celestial_Blue-brd {
+border-color:#7070CC;
+}
+
+.CRAYOLA_Blue_Bell-bg {
+background-color:#9999CC;
+}
+.CRAYOLA_Blue_Bell-clr {
+color:#9999CC;
+}
+.CRAYOLA_Blue_Bell-brd {
+border-color:#9999CC;
+}
+
+.CRAYOLA_Maximum_Blue_Purple-bg {
+background-color:#ACACE6;
+}
+.CRAYOLA_Maximum_Blue_Purple-clr {
+color:#ACACE6;
+}
+.CRAYOLA_Maximum_Blue_Purple-brd {
+border-color:#ACACE6;
+}
+
+.CRAYOLA_Violet-Blue-bg {
+background-color:#766EC8;
+}
+.CRAYOLA_Violet-Blue-clr {
+color:#766EC8;
+}
+.CRAYOLA_Violet-Blue-brd {
+border-color:#766EC8;
+}
+
+.CRAYOLA_Blue-Violet-bg {
+background-color:#6456B7;
+}
+.CRAYOLA_Blue-Violet-clr {
+color:#6456B7;
+}
+.CRAYOLA_Blue-Violet-brd {
+border-color:#6456B7;
+}
+
+.CRAYOLA_Ultramarine_Blue-bg {
+background-color:#3F26BF;
+}
+.CRAYOLA_Ultramarine_Blue-clr {
+color:#3F26BF;
+}
+.CRAYOLA_Ultramarine_Blue-brd {
+border-color:#3F26BF;
+}
+
+.CRAYOLA_Middle_Blue_Purple-bg {
+background-color:#8B72BE;
+}
+.CRAYOLA_Middle_Blue_Purple-clr {
+color:#8B72BE;
+}
+.CRAYOLA_Middle_Blue_Purple-brd {
+border-color:#8B72BE;
+}
+
+.CRAYOLA_Purple_Heart-bg {
+background-color:#652DC1;
+}
+.CRAYOLA_Purple_Heart-clr {
+color:#652DC1;
+}
+.CRAYOLA_Purple_Heart-brd {
+border-color:#652DC1;
+}
+
+.CRAYOLA_Royal_Purple-bg {
+background-color:#6B3FA0;
+}
+.CRAYOLA_Royal_Purple-clr {
+color:#6B3FA0;
+}
+.CRAYOLA_Royal_Purple-brd {
+border-color:#6B3FA0;
+}
+
+.CRAYOLA_Violet_2-bg {
+background-color:#8359A3;
+}
+.CRAYOLA_Violet_2-clr {
+color:#8359A3;
+}
+.CRAYOLA_Violet_2-brd {
+border-color:#8359A3;
+}
+
+.CRAYOLA_Medium_Violet-bg {
+background-color:#8F47B3;
+}
+.CRAYOLA_Medium_Violet-clr {
+color:#8F47B3;
+}
+.CRAYOLA_Medium_Violet-brd {
+border-color:#8F47B3;
+}
+
+.CRAYOLA_Wisteria-bg {
+background-color:#C9A0DC;
+}
+.CRAYOLA_Wisteria-clr {
+color:#C9A0DC;
+}
+.CRAYOLA_Wisteria-brd {
+border-color:#C9A0DC;
+}
+
+.CRAYOLA_Lavender_1-bg {
+background-color:#BF8FCC;
+}
+.CRAYOLA_Lavender_1-clr {
+color:#BF8FCC;
+}
+.CRAYOLA_Lavender_1-brd {
+border-color:#BF8FCC;
+}
+
+.CRAYOLA_Vivid_Violet-bg {
+background-color:#803790;
+}
+.CRAYOLA_Vivid_Violet-clr {
+color:#803790;
+}
+.CRAYOLA_Vivid_Violet-brd {
+border-color:#803790;
+}
+
+.CRAYOLA_Maximum_Purple-bg {
+background-color:#733380;
+}
+.CRAYOLA_Maximum_Purple-clr {
+color:#733380;
+}
+.CRAYOLA_Maximum_Purple-brd {
+border-color:#733380;
+}
+
+.CRAYOLA_Purple_Mountains_Majesty-bg {
+background-color:#D6AEDD;
+}
+.CRAYOLA_Purple_Mountains_Majesty-clr {
+color:#D6AEDD;
+}
+.CRAYOLA_Purple_Mountains_Majesty-brd {
+border-color:#D6AEDD;
+}
+
+.CRAYOLA_Fuchsia-bg {
+background-color:#C154C1;
+}
+.CRAYOLA_Fuchsia-clr {
+color:#C154C1;
+}
+.CRAYOLA_Fuchsia-brd {
+border-color:#C154C1;
+}
+
+.CRAYOLA_Pink_Flamingo-bg {
+background-color:#FC74FD;
+}
+.CRAYOLA_Pink_Flamingo-clr {
+color:#FC74FD;
+}
+.CRAYOLA_Pink_Flamingo-brd {
+border-color:#FC74FD;
+}
+
+.CRAYOLA_Violet_1-bg {
+background-color:#732E6C;
+}
+.CRAYOLA_Violet_1-clr {
+color:#732E6C;
+}
+.CRAYOLA_Violet_1-brd {
+border-color:#732E6C;
+}
+
+.CRAYOLA_Brilliant_Rose-bg {
+background-color:#E667CE;
+}
+.CRAYOLA_Brilliant_Rose-clr {
+color:#E667CE;
+}
+.CRAYOLA_Brilliant_Rose-brd {
+border-color:#E667CE;
+}
+
+.CRAYOLA_Orchid-bg {
+background-color:#E29CD2;
+}
+.CRAYOLA_Orchid-clr {
+color:#E29CD2;
+}
+.CRAYOLA_Orchid-brd {
+border-color:#E29CD2;
+}
+
+.CRAYOLA_Plum-bg {
+background-color:#8E3179;
+}
+.CRAYOLA_Plum-clr {
+color:#8E3179;
+}
+.CRAYOLA_Plum-brd {
+border-color:#8E3179;
+}
+
+.CRAYOLA_Medium_Rose-bg {
+background-color:#D96CBE;
+}
+.CRAYOLA_Medium_Rose-clr {
+color:#D96CBE;
+}
+.CRAYOLA_Medium_Rose-brd {
+border-color:#D96CBE;
+}
+
+.CRAYOLA_Thistle-bg {
+background-color:#EBB0D7;
+}
+.CRAYOLA_Thistle-clr {
+color:#EBB0D7;
+}
+.CRAYOLA_Thistle-brd {
+border-color:#EBB0D7;
+}
+
+.CRAYOLA_Mulberry-bg {
+background-color:#C8509B;
+}
+.CRAYOLA_Mulberry-clr {
+color:#C8509B;
+}
+.CRAYOLA_Mulberry-brd {
+border-color:#C8509B;
+}
+
+.CRAYOLA_Red-Violet-bg {
+background-color:#BB3385;
+}
+.CRAYOLA_Red-Violet-clr {
+color:#BB3385;
+}
+.CRAYOLA_Red-Violet-brd {
+border-color:#BB3385;
+}
+
+.CRAYOLA_Middle_Purple-bg {
+background-color:#D982B5;
+}
+.CRAYOLA_Middle_Purple-clr {
+color:#D982B5;
+}
+.CRAYOLA_Middle_Purple-brd {
+border-color:#D982B5;
+}
+
+.CRAYOLA_Maximum_Red_Purple-bg {
+background-color:#A63A79;
+}
+.CRAYOLA_Maximum_Red_Purple-clr {
+color:#A63A79;
+}
+.CRAYOLA_Maximum_Red_Purple-brd {
+border-color:#A63A79;
+}
+
+.CRAYOLA_Jazzberry_Jam-bg {
+background-color:#A50B5E;
+}
+.CRAYOLA_Jazzberry_Jam-clr {
+color:#A50B5E;
+}
+.CRAYOLA_Jazzberry_Jam-brd {
+border-color:#A50B5E;
+}
+
+.CRAYOLA_Eggplant-bg {
+background-color:#614051;
+}
+.CRAYOLA_Eggplant-clr {
+color:#614051;
+}
+.CRAYOLA_Eggplant-brd {
+border-color:#614051;
+}
+
+.CRAYOLA_Magenta-bg {
+background-color:#F653A6;
+}
+.CRAYOLA_Magenta-clr {
+color:#F653A6;
+}
+.CRAYOLA_Magenta-brd {
+border-color:#F653A6;
+}
+
+.CRAYOLA_Cerise-bg {
+background-color:#DA3287;
+}
+.CRAYOLA_Cerise-clr {
+color:#DA3287;
+}
+.CRAYOLA_Cerise-brd {
+border-color:#DA3287;
+}
+
+.CRAYOLA_Wild_Strawberry-bg {
+background-color:#FF3399;
+}
+.CRAYOLA_Wild_Strawberry-clr {
+color:#FF3399;
+}
+.CRAYOLA_Wild_Strawberry-brd {
+border-color:#FF3399;
+}
+
+.CRAYOLA_Lavender_2-bg {
+background-color:#FBAED2;
+}
+.CRAYOLA_Lavender_2-clr {
+color:#FBAED2;
+}
+.CRAYOLA_Lavender_2-brd {
+border-color:#FBAED2;
+}
+
+.CRAYOLA_Cotton_Candy-bg {
+background-color:#FFB7D5;
+}
+.CRAYOLA_Cotton_Candy-clr {
+color:#FFB7D5;
+}
+.CRAYOLA_Cotton_Candy-brd {
+border-color:#FFB7D5;
+}
+
+.CRAYOLA_Carnation_Pink-bg {
+background-color:#FFA6C9;
+}
+.CRAYOLA_Carnation_Pink-clr {
+color:#FFA6C9;
+}
+.CRAYOLA_Carnation_Pink-brd {
+border-color:#FFA6C9;
+}
+
+.CRAYOLA_Violet-Red-bg {
+background-color:#F7468A;
+}
+.CRAYOLA_Violet-Red-clr {
+color:#F7468A;
+}
+.CRAYOLA_Violet-Red-brd {
+border-color:#F7468A;
+}
+
+.CRAYOLA_Razzmatazz-bg {
+background-color:#E30B5C;
+}
+.CRAYOLA_Razzmatazz-clr {
+color:#E30B5C;
+}
+.CRAYOLA_Razzmatazz-brd {
+border-color:#E30B5C;
+}
+
+.CRAYOLA_Pig_Pink-bg {
+background-color:#FDD7E4;
+}
+.CRAYOLA_Pig_Pink-clr {
+color:#FDD7E4;
+}
+.CRAYOLA_Pig_Pink-brd {
+border-color:#FDD7E4;
+}
+
+.CRAYOLA_Carmine-bg {
+background-color:#E62E6B;
+}
+.CRAYOLA_Carmine-clr {
+color:#E62E6B;
+}
+.CRAYOLA_Carmine-brd {
+border-color:#E62E6B;
+}
+
+.CRAYOLA_Blush-bg {
+background-color:#DB5079;
+}
+.CRAYOLA_Blush-clr {
+color:#DB5079;
+}
+.CRAYOLA_Blush-brd {
+border-color:#DB5079;
+}
+
+.CRAYOLA_Tickle_Me_Pink-bg {
+background-color:#FC80A5;
+}
+.CRAYOLA_Tickle_Me_Pink-clr {
+color:#FC80A5;
+}
+.CRAYOLA_Tickle_Me_Pink-brd {
+border-color:#FC80A5;
+}
+
+.CRAYOLA_Mauvelous-bg {
+background-color:#F091A9;
+}
+.CRAYOLA_Mauvelous-clr {
+color:#F091A9;
+}
+.CRAYOLA_Mauvelous-brd {
+border-color:#F091A9;
+}
+
+.CRAYOLA_Salmon-bg {
+background-color:#FF91A4;
+}
+.CRAYOLA_Salmon-clr {
+color:#FF91A4;
+}
+.CRAYOLA_Salmon-brd {
+border-color:#FF91A4;
+}
+
+.CRAYOLA_Middle_Red_Purple-bg {
+background-color:#A55353;
+}
+.CRAYOLA_Middle_Red_Purple-clr {
+color:#A55353;
+}
+.CRAYOLA_Middle_Red_Purple-brd {
+border-color:#A55353;
+}
+
+.CRAYOLA_Mahogany-bg {
+background-color:#CA3435;
+}
+.CRAYOLA_Mahogany-clr {
+color:#CA3435;
+}
+.CRAYOLA_Mahogany-brd {
+border-color:#CA3435;
+}
+
+.CRAYOLA_Melon-bg {
+background-color:#FEBAAD;
+}
+.CRAYOLA_Melon-clr {
+color:#FEBAAD;
+}
+.CRAYOLA_Melon-brd {
+border-color:#FEBAAD;
+}
+
+.CRAYOLA_Pink_Sherbert-bg {
+background-color:#F7A38E;
+}
+.CRAYOLA_Pink_Sherbert-clr {
+color:#F7A38E;
+}
+.CRAYOLA_Pink_Sherbert-brd {
+border-color:#F7A38E;
+}
+
+.CRAYOLA_Burnt_Sienna-bg {
+background-color:#E97451;
+}
+.CRAYOLA_Burnt_Sienna-clr {
+color:#E97451;
+}
+.CRAYOLA_Burnt_Sienna-brd {
+border-color:#E97451;
+}
+
+.CRAYOLA_Brown-bg {
+background-color:#AF593E;
+}
+.CRAYOLA_Brown-clr {
+color:#AF593E;
+}
+.CRAYOLA_Brown-brd {
+border-color:#AF593E;
+}
+
+.CRAYOLA_Sepia-bg {
+background-color:#9E5B40;
+}
+.CRAYOLA_Sepia-clr {
+color:#9E5B40;
+}
+.CRAYOLA_Sepia-brd {
+border-color:#9E5B40;
+}
+
+.CRAYOLA_Fuzzy_Wuzzy-bg {
+background-color:#87421F;
+}
+.CRAYOLA_Fuzzy_Wuzzy-clr {
+color:#87421F;
+}
+.CRAYOLA_Fuzzy_Wuzzy-brd {
+border-color:#87421F;
+}
+
+.CRAYOLA_Beaver-bg {
+background-color:#926F5B;
+}
+.CRAYOLA_Beaver-clr {
+color:#926F5B;
+}
+.CRAYOLA_Beaver-brd {
+border-color:#926F5B;
+}
+
+.CRAYOLA_Tumbleweed-bg {
+background-color:#DEA681;
+}
+.CRAYOLA_Tumbleweed-clr {
+color:#DEA681;
+}
+.CRAYOLA_Tumbleweed-brd {
+border-color:#DEA681;
+}
+
+.CRAYOLA_Raw_Sienna-bg {
+background-color:#D27D46;
+}
+.CRAYOLA_Raw_Sienna-clr {
+color:#D27D46;
+}
+.CRAYOLA_Raw_Sienna-brd {
+border-color:#D27D46;
+}
+
+.CRAYOLA_Van_Dyke_Brown-bg {
+background-color:#664228;
+}
+.CRAYOLA_Van_Dyke_Brown-clr {
+color:#664228;
+}
+.CRAYOLA_Van_Dyke_Brown-brd {
+border-color:#664228;
+}
+
+.CRAYOLA_Tan-bg {
+background-color:#D99A6C;
+}
+.CRAYOLA_Tan-clr {
+color:#D99A6C;
+}
+.CRAYOLA_Tan-brd {
+border-color:#D99A6C;
+}
+
+.CRAYOLA_Desert_Sand-bg {
+background-color:#EDC9AF;
+}
+.CRAYOLA_Desert_Sand-clr {
+color:#EDC9AF;
+}
+.CRAYOLA_Desert_Sand-brd {
+border-color:#EDC9AF;
+}
+
+.CRAYOLA_Peach-bg {
+background-color:#FFCBA4;
+}
+.CRAYOLA_Peach-clr {
+color:#FFCBA4;
+}
+.CRAYOLA_Peach-brd {
+border-color:#FFCBA4;
+}
+
+.CRAYOLA_Burnt_Umber-bg {
+background-color:#805533;
+}
+.CRAYOLA_Burnt_Umber-clr {
+color:#805533;
+}
+.CRAYOLA_Burnt_Umber-brd {
+border-color:#805533;
+}
+
+.CRAYOLA_Apricot-bg {
+background-color:#FDD5B1;
+}
+.CRAYOLA_Apricot-clr {
+color:#FDD5B1;
+}
+.CRAYOLA_Apricot-brd {
+border-color:#FDD5B1;
+}
+
+.CRAYOLA_Almond-bg {
+background-color:#EED9C4;
+}
+.CRAYOLA_Almond-clr {
+color:#EED9C4;
+}
+.CRAYOLA_Almond-brd {
+border-color:#EED9C4;
+}
+
+.CRAYOLA_Raw_Umber-bg {
+background-color:#665233;
+}
+.CRAYOLA_Raw_Umber-clr {
+color:#665233;
+}
+.CRAYOLA_Raw_Umber-brd {
+border-color:#665233;
+}
+
+.CRAYOLA_Shadow-bg {
+background-color:#837050;
+}
+.CRAYOLA_Shadow-clr {
+color:#837050;
+}
+.CRAYOLA_Shadow-brd {
+border-color:#837050;
+}
+
+.CRAYOLA_Raw_Sienna_1-bg {
+background-color:#E6BC5C;
+}
+.CRAYOLA_Raw_Sienna_1-clr {
+color:#E6BC5C;
+}
+.CRAYOLA_Raw_Sienna_1-brd {
+border-color:#E6BC5C;
+}
+
+.CRAYOLA_Timberwolf-bg {
+background-color:#D9D6CF;
+}
+.CRAYOLA_Timberwolf-clr {
+color:#D9D6CF;
+}
+.CRAYOLA_Timberwolf-brd {
+border-color:#D9D6CF;
+}
+
+.CRAYOLA_Gold_1-bg {
+background-color:#92926E;
+}
+.CRAYOLA_Gold_1-clr {
+color:#92926E;
+}
+.CRAYOLA_Gold_1-brd {
+border-color:#92926E;
+}
+
+.CRAYOLA_Gold_2-bg {
+background-color:#E6BE8A;
+}
+.CRAYOLA_Gold_2-clr {
+color:#E6BE8A;
+}
+.CRAYOLA_Gold_2-brd {
+border-color:#E6BE8A;
+}
+
+.CRAYOLA_Silver-bg {
+background-color:#C9C0BB;
+}
+.CRAYOLA_Silver-clr {
+color:#C9C0BB;
+}
+.CRAYOLA_Silver-brd {
+border-color:#C9C0BB;
+}
+
+.CRAYOLA_Copper-bg {
+background-color:#DA8A67;
+}
+.CRAYOLA_Copper-clr {
+color:#DA8A67;
+}
+.CRAYOLA_Copper-brd {
+border-color:#DA8A67;
+}
+
+.CRAYOLA_Antique_Brass-bg {
+background-color:#C88A65;
+}
+.CRAYOLA_Antique_Brass-clr {
+color:#C88A65;
+}
+.CRAYOLA_Antique_Brass-brd {
+border-color:#C88A65;
+}
+
+.CRAYOLA_Black-bg {
+background-color:#000000;
+}
+.CRAYOLA_Black-clr {
+color:#000000;
+}
+.CRAYOLA_Black-brd {
+border-color:#000000;
+}
+
+.CRAYOLA_Charcoal_Gray-bg {
+background-color:#736A62;
+}
+.CRAYOLA_Charcoal_Gray-clr {
+color:#736A62;
+}
+.CRAYOLA_Charcoal_Gray-brd {
+border-color:#736A62;
+}
+
+.CRAYOLA_Gray-bg {
+background-color:#8B8680;
+}
+.CRAYOLA_Gray-clr {
+color:#8B8680;
+}
+.CRAYOLA_Gray-brd {
+border-color:#8B8680;
+}
+
+.CRAYOLA_Blue-Gray-bg {
+background-color:#C8C8CD;
+}
+.CRAYOLA_Blue-Gray-clr {
+color:#C8C8CD;
+}
+.CRAYOLA_Blue-Gray-brd {
+border-color:#C8C8CD;
+}
