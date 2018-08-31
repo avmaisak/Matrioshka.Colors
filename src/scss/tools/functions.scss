@@ -3,3 +3,29 @@
 @function color($color, $value: 500) {
 	@return map-get($color, $value);
 }
+
+/**	
+Generate Css from scss palette array
+@ $pal-prefix - 'palette string name'
+@ $colors-array - palette array
+@ $cssClassPrefix - prefix for css class name
+*/
+@mixin generateCssClasses($pal-prefix, $colors-array, $cssClassPrefix:'clr') {
+	
+	@each $color-name, $color-variants in $colors-array {
+		@each $color-variant, $hex-value in $color-variants {
+
+			.#{$cssClassPrefix}-#{$pal-prefix}-#{$color-name}-#{$color-variant} {
+				color: #{$hex-value};
+			}
+	
+			.#{$cssClassPrefix}-bg-#{$color-name}-#{$color-variant} {
+				background-color: #{$hex-value};
+			}
+	
+			.#{$cssClassPrefix}-brd-#{$color-name}-#{$color-variant} {
+				border-color: #{$hex-value};
+			}
+		}
+	}
+}

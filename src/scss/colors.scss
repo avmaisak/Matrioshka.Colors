@@ -1,25 +1,4 @@
 @import "./tools/functions";
-@import "./palettes/web-safe.scss";
 @import "./palettes/material.scss";
 
-@each $color-name, $color-variants in $material-colors {
-
-	@each $color-variant, $hex-value in $color-variants {
-
-		.clr-#{$color-name}-#{$color-variant} *,
-		.clr-#{$color-name}-#{$color-variant} *:hover,
-		.clr-#{$color-name}-#{$color-variant}:hover,
-		.clr-#{$color-name}-#{$color-variant} {
-			color: #{$hex-value};
-			border-color: #{$hex-value};
-		}
-
-		.clr-bg-#{$color-name}-#{$color-variant} {
-			background-color: #{$hex-value};
-		}
-
-		.clr-brd-#{$color-name}-#{$color-variant} {
-			border:solid 1px #{$hex-value};
-		}
-	}
-}
+@include generateCssClasses('material', $material-colors);

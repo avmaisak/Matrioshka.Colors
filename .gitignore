@@ -60,4 +60,8 @@ typings/
 # next.js build output
 .next
 
+*/*.css.
+
+*/*.css.map
+
 dist/*

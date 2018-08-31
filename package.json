@@ -1,11 +1,11 @@
 {
   "name": "matrioshka.colors",
-  "version": "0.0.1",
-  "description": "nice color palettes for your web application",
-  "main": "main.js",
+  "version": "0.1.1",
+  "description": "nice color palletes ",
+  "main": "index.js",
   "scripts": {
-    "build": "webpack",
-    "start": "webpack --watch"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./node_modules/gulp/bin/gulp.js --gulpfile tools/gulp/gulpfile.js"
   },
   "repository": {
     "type": "git",
@@ -18,15 +18,6 @@
   },
   "homepage": "https://github.com/avmaisak/Matrioshka.Colors#readme",
   "devDependencies": {
-    "css-loader": "^1.0.0",
-    "extract-loader": "^2.0.1",
-    "extract-text-webpack-plugin": "^3.0.2",
-    "file-loader": "^1.1.11",
-    "node-sass": "^4.9.3",
-    "postcss-loader": "^3.0.0",
-    "sass-loader": "^7.1.0",
-    "style-loader": "^0.22.1",
-    "webpack": "^4.16.5",
-    "webpack-cli": "^3.1.0"
+    "gulp": "^4.0.0"
   }
 }
