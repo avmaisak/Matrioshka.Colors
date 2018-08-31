@@ -1,4 +1,0 @@
-@import "./tools/functions";
-@import "./palettes/material.scss";
-
-@include generateCssClasses('material', $material-colors);

@@ -1,14 +1,3 @@
-// web Safe Color Palette
-
-// Designers were encouraged to stick to these 216 "web-safe" colors in their websites
-// because there were a lot of 8-bit color displays when the 216-color palette was developed.
-// David Lehn and Hadley Stern discovered that only 22 of the 216 colors in the web-safe
-// palette are reliably displayed without inconsistent remapping on 16-bit computer displays.
-// They called these 22 colors the "really safe" palette;
-// it consists largely of shades of green, yellow, and blue, as can be seen in the table below
-// https://en.wikipedia.org/wiki/Web_colors
-// https://en.wikipedia.org/wiki/Web_colors#cite_note-13
-
 $WEB_SAFE_AliceBlue:#F0F8FF;
 $WEB_SAFE_AntiqueWhite:#FAEBD7;
 $WEB_SAFE_Aqua:#00FFFF;
@@ -158,36 +147,36 @@ $WEB_SAFE_WhiteSmoke:#F5F5F5;
 $WEB_SAFE_Yellow:#FFFF00;
 $WEB_SAFE_YellowGreen:#9ACD32;
 
-$WEB_SAFE-000: #000;
-$WEB_SAFE-111: #111;
-$WEB_SAFE-222: #222;
-$WEB_SAFE-333: #333;
-$WEB_SAFE-444: #444;
-$WEB_SAFE-555: #555;
-$WEB_SAFE-666: #666;
-$WEB_SAFE-777: #777;
-$WEB_SAFE-888: #888;
-$WEB_SAFE-999: #999;
-$WEB_SAFE-003: #003;
-$WEB_SAFE-00F: #00F;
-$WEB_SAFE-0F0: #0F0;
-$WEB_SAFE-0F6: #0F6;
-$WEB_SAFE-0FC: #0FC;
-$WEB_SAFE-0FF: #0FF;
-$WEB_SAFE-3F3: #3F3;
-$WEB_SAFE-3F6: #3F6;
-$WEB_SAFE-3FC: #3FC;
-$WEB_SAFE-3FF: #3FF;
-$WEB_SAFE-6F0: #6F0;
-$WEB_SAFE-6F3: #6F3;
-$WEB_SAFE-6FF: #6FF;
-$WEB_SAFE-CF6: #CF6;
-$WEB_SAFE-F00: #F00;
-$WEB_SAFE-F03: #F03;
-$WEB_SAFE-F0F: #F0F;
-$WEB_SAFE-FF0: #FF0;
-$WEB_SAFE-FF3: #FF3;
-$WEB_SAFE-FF6: #FF6;
-$WEB_SAFE-FF9: #FF9;
-$WEB_SAFE-FFF: #FFF;
-$WEB_SAFE-CCC: #CCC;
+$WEB_SAFE-000:#000;
+$WEB_SAFE-111:#111;
+$WEB_SAFE-222:#222;
+$WEB_SAFE-333:#333;
+$WEB_SAFE-444:#444;
+$WEB_SAFE-555:#555;
+$WEB_SAFE-666:#666;
+$WEB_SAFE-777:#777;
+$WEB_SAFE-888:#888;
+$WEB_SAFE-999:#999;
+$WEB_SAFE-003:#003;
+$WEB_SAFE-00F:#00F;
+$WEB_SAFE-0F0:#0F0;
+$WEB_SAFE-0F6:#0F6;
+$WEB_SAFE-0FC:#0FC;
+$WEB_SAFE-0FF:#0FF;
+$WEB_SAFE-3F3:#3F3;
+$WEB_SAFE-3F6:#3F6;
+$WEB_SAFE-3FC:#3FC;
+$WEB_SAFE-3FF:#3FF;
+$WEB_SAFE-6F0:#6F0;
+$WEB_SAFE-6F3:#6F3;
+$WEB_SAFE-6FF:#6FF;
+$WEB_SAFE-CF6:#CF6;
+$WEB_SAFE-F00:#F00;
+$WEB_SAFE-F03:#F03;
+$WEB_SAFE-F0F:#F0F;
+$WEB_SAFE-FF0:#FF0;
+$WEB_SAFE-FF3:#FF3;
+$WEB_SAFE-FF6:#FF6;
+$WEB_SAFE-FF9:#FF9;
+$WEB_SAFE-FFF:#FFF;
+$WEB_SAFE-CCC:#CCC;
