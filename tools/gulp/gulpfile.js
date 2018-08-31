@@ -1,7 +1,10 @@
-var gulp = require('gulp');
-var fs = require('fs');
-var glob = require('glob');
-var path = require('path');
+let 
+	gulp = require('gulp'),
+	fs = require('fs'),
+	glob = require('glob'),
+	path = require('path'),
+	cleanCSS = require('gulp-clean-css')
+;
 
 const srcDest = '../../src/scss/palettes/*.scss';
 const releaseDest = '../../dist/css';
@@ -46,10 +49,8 @@ function genCssRule( obj ) {
 	`.replace('\r','');
 }
 
-
-gulp.task('default', function() {
+gulp.task('createcss', () => {
 	clear();
-	
 	return glob(srcDest, function (e, files ) {
 
 		files.forEach ( f => {
@@ -68,10 +69,22 @@ gulp.task('default', function() {
 
 				fs.writeFile(distFilePath, rules.join('').replace(/[\r\t]/g,''), (err) => {
 					if (err) throw err;
-					console.log(distFilePath);
+					gulp.src(distFilePath)
+							.pipe(cleanCSS())
+							.pipe(gulp.dest(`${releaseDest}/min`));
 				});
 
 			});
 		});
 	});
 });
+
+
+
+gulp.task('default', 
+	gulp.series(
+		[ 
+			'createcss'
+		]
+	)
+);
