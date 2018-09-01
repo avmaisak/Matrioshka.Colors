@@ -1,26 +1,41 @@
 {
-  "name": "matrioshka.colors",
-  "version": "0.1.1",
-  "description": "nice color palletes ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./node_modules/gulp/bin/gulp.js --gulpfile tools/gulp/gulpfile.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/avmaisak/Matrioshka.Colors.git"
-  },
-  "author": "Anton Maisak",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/avmaisak/Matrioshka.Colors/issues"
-  },
-  "homepage": "https://github.com/avmaisak/Matrioshka.Colors#readme",
-  "devDependencies": {
-    "gulp": "^4.0.0"
-  },
-  "dependencies": {
-    "gulp-clean-css": "^3.10.0"
-  }
+	"name": "matrioshka.colors",
+	"version": "1.0.22",
+	"description": "Contains scss and css files with color palettes using color standarts (ncs, pantone, ral,resene, material, web-safe, x11, xkcd, iscc, nbs, crayola)",
+	"main": "index.js",
+	"keywords": [
+		"color",
+		"palettes",
+		"ncs",
+		"pantone",
+		"ral",
+		"resene",
+		"material",
+		"web-safe",
+		"x11",
+		"xkcd",
+		"iscc",
+		"nbs",
+		"crayola"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "node ./node_modules/gulp/bin/gulp.js --gulpfile tools/gulp/gulpfile.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/avmaisak/Matrioshka.Colors.git"
+	},
+	"author": "Anton Maisak",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/avmaisak/Matrioshka.Colors/issues"
+	},
+	"homepage": "https://github.com/avmaisak/Matrioshka.Colors#readme",
+	"devDependencies": {
+		"gulp": "^4.0.0"
+	},
+	"dependencies": {
+		"gulp-clean-css": "^3.10.0"
+	}
 }

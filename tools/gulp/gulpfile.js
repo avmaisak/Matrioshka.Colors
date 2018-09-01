@@ -49,25 +49,44 @@ function genCssRule( obj ) {
 	`.replace('\r','');
 }
 
-gulp.task('createcss', () => {
+gulp.task('create', () => {
 	clear();
-	return glob(srcDest, function (e, files ) {
-
+	// search filesn in destination dir
+	return glob(srcDest, function ( e, files ) {
+		// each files
 		files.forEach ( f => {
-
+			// get data from file
 			parseFile ( f , function ( dataArray ) {
-				var distFilePath = '';
-				var fileName = '';
-				var rules = [];
+				let distFilePath = '';
+				let fileName = '';
+				let rules = [];
+				let dataSrc = [];
+				let dataItem = {
+					name: '',
+					items: []
+				};
 
 				dataArray.forEach ( data => {
-					var s = parseLine( data );
+					let parsedObject = parseLine( data );
 					fileName = path.basename(f).replace('scss','css');
 					distFilePath = `${releaseDest}/${fileName}`;
-					rules.push(genCssRule(s));
+					rules.push(genCssRule(parsedObject));
+					dataItem.name = fileName
+					dataSrc.push({
+						key:parsedObject.key,
+						value: parsedObject.value.replace('\r','')
+					});
 				})
 
-				fs.writeFile(distFilePath, rules.join('').replace(/[\r\t]/g,''), (err) => {
+				dataItem.items = dataSrc;
+
+				let fileContent = rules.join('').replace(/[\r\t]/g,'');
+				
+				fs.writeFile(`../../dist/data/${dataItem.name.replace('.css','.json')}`, JSON.stringify(dataItem), (err) => {
+					if (err) throw err;
+				});
+
+				fs.writeFile(distFilePath, fileContent , (err) => {
 					if (err) throw err;
 					gulp.src(distFilePath)
 							.pipe(cleanCSS())
@@ -84,7 +103,7 @@ gulp.task('createcss', () => {
 gulp.task('default', 
 	gulp.series(
 		[ 
-			'createcss'
+			'create'
 		]
 	)
 );
