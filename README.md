@@ -17,6 +17,7 @@
 - iscc
 - nbs
 - crayola
+- new_def
 
 ## Installation
 
