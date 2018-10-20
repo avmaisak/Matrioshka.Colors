@@ -3,6 +3,7 @@
 📚🎨
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build status](https://ci.appveyor.com/api/projects/status/3sujhnkat5pu62ra?svg=true)](https://ci.appveyor.com/project/avmaisak/matrioshka-colors)
+[![npm version](https://badge.fury.io/js/matrioshka.colors.svg)](https://badge.fury.io/js/matrioshka.colors)
 
 ## Contains scss and css files with color palettes using color standarts 
 
@@ -17,6 +18,7 @@
 - iscc
 - nbs
 - crayola
+- new_def
 
 ## Installation
 
