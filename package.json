@@ -1,6 +1,6 @@
 {
 	"name": "matrioshka.colors",
-	"version": "1.0.27",
+	"version": "1.0.28",
 	"description": "Contains scss and css files with color palettes using color standarts (ncs, pantone, ral,resene, material, web-safe, x11, xkcd, iscc, nbs, crayola)",
 	"main": "index.js",
 	"keywords": [
