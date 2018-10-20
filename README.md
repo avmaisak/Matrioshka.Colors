@@ -5,7 +5,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3sujhnkat5pu62ra?svg=true)](https://ci.appveyor.com/project/avmaisak/matrioshka-colors)
 [![npm version](https://badge.fury.io/js/matrioshka.colors.svg)](https://badge.fury.io/js/matrioshka.colors)
 
-## Contains scss and css files with color palettes using color standarts 
+## Contains scss and css files with color palettes using color standarts
 
 - ncs
 - pantone
@@ -22,4 +22,8 @@
 
 ## Installation
 
-Run npm install 
+Run npm install
+
+## Build
+
+Run npm run build
