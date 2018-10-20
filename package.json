@@ -31,7 +31,7 @@
 	"bugs": {
 		"url": "https://github.com/avmaisak/Matrioshka.Colors/issues"
 	},
-	"homepage": "https://github.com/avmaisak/Matrioshka.Colors#readme",
+	"homepage": "https://matrioshka.tools/colors",
 	"devDependencies": {
 		"gulp": "^4.0.0"
 	},
