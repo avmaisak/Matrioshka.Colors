@@ -20,6 +20,10 @@
 - crayola
 - new_def
 
+Visit for more info
+
+https://matrioshka.tools/colors
+
 ## Installation
 
 Run npm install
