@@ -19,6 +19,7 @@
 - nbs
 - crayola
 - new_def
+- named_colors
 
 Visit for more info
 
