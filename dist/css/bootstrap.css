@@ -1,0 +1,290 @@
+
+.BOOTSTRAP-white-bg {
+background-color:#fff;
+}
+.BOOTSTRAP-white-clr {
+color:#fff;
+}
+.BOOTSTRAP-white-brd {
+border-color:#fff;
+}
+
+.BOOTSTRAP-gray-100-bg {
+background-color:#f8f9fa;
+}
+.BOOTSTRAP-gray-100-clr {
+color:#f8f9fa;
+}
+.BOOTSTRAP-gray-100-brd {
+border-color:#f8f9fa;
+}
+
+.BOOTSTRAP-gray-200-bg {
+background-color:#e9ecef;
+}
+.BOOTSTRAP-gray-200-clr {
+color:#e9ecef;
+}
+.BOOTSTRAP-gray-200-brd {
+border-color:#e9ecef;
+}
+
+.BOOTSTRAP-gray-300-bg {
+background-color:#dee2e6;
+}
+.BOOTSTRAP-gray-300-clr {
+color:#dee2e6;
+}
+.BOOTSTRAP-gray-300-brd {
+border-color:#dee2e6;
+}
+
+.BOOTSTRAP-gray-400-bg {
+background-color:#ced4da;
+}
+.BOOTSTRAP-gray-400-clr {
+color:#ced4da;
+}
+.BOOTSTRAP-gray-400-brd {
+border-color:#ced4da;
+}
+
+.BOOTSTRAP-gray-500-bg {
+background-color:#adb5bd;
+}
+.BOOTSTRAP-gray-500-clr {
+color:#adb5bd;
+}
+.BOOTSTRAP-gray-500-brd {
+border-color:#adb5bd;
+}
+
+.BOOTSTRAP-gray-600-bg {
+background-color:#6c757d;
+}
+.BOOTSTRAP-gray-600-clr {
+color:#6c757d;
+}
+.BOOTSTRAP-gray-600-brd {
+border-color:#6c757d;
+}
+
+.BOOTSTRAP-gray-700-bg {
+background-color:#495057;
+}
+.BOOTSTRAP-gray-700-clr {
+color:#495057;
+}
+.BOOTSTRAP-gray-700-brd {
+border-color:#495057;
+}
+
+.BOOTSTRAP-gray-800-bg {
+background-color:#343a40;
+}
+.BOOTSTRAP-gray-800-clr {
+color:#343a40;
+}
+.BOOTSTRAP-gray-800-brd {
+border-color:#343a40;
+}
+
+.BOOTSTRAP-gray-900-bg {
+background-color:#212529;
+}
+.BOOTSTRAP-gray-900-clr {
+color:#212529;
+}
+.BOOTSTRAP-gray-900-brd {
+border-color:#212529;
+}
+
+.BOOTSTRAP-black-bg {
+background-color:#000;
+}
+.BOOTSTRAP-black-clr {
+color:#000;
+}
+.BOOTSTRAP-black-brd {
+border-color:#000;
+}
+
+.BOOTSTRAP-blue-bg {
+background-color:#007bff;
+}
+.BOOTSTRAP-blue-clr {
+color:#007bff;
+}
+.BOOTSTRAP-blue-brd {
+border-color:#007bff;
+}
+
+.BOOTSTRAP-indigo-bg {
+background-color:#6610f2;
+}
+.BOOTSTRAP-indigo-clr {
+color:#6610f2;
+}
+.BOOTSTRAP-indigo-brd {
+border-color:#6610f2;
+}
+
+.BOOTSTRAP-purple-bg {
+background-color:#6f42c1;
+}
+.BOOTSTRAP-purple-clr {
+color:#6f42c1;
+}
+.BOOTSTRAP-purple-brd {
+border-color:#6f42c1;
+}
+
+.BOOTSTRAP-pink-bg {
+background-color:#e83e8c;
+}
+.BOOTSTRAP-pink-clr {
+color:#e83e8c;
+}
+.BOOTSTRAP-pink-brd {
+border-color:#e83e8c;
+}
+
+.BOOTSTRAP-red-bg {
+background-color:#dc3545;
+}
+.BOOTSTRAP-red-clr {
+color:#dc3545;
+}
+.BOOTSTRAP-red-brd {
+border-color:#dc3545;
+}
+
+.BOOTSTRAP-orange-bg {
+background-color:#fd7e14;
+}
+.BOOTSTRAP-orange-clr {
+color:#fd7e14;
+}
+.BOOTSTRAP-orange-brd {
+border-color:#fd7e14;
+}
+
+.BOOTSTRAP-yellow-bg {
+background-color:#ffc107;
+}
+.BOOTSTRAP-yellow-clr {
+color:#ffc107;
+}
+.BOOTSTRAP-yellow-brd {
+border-color:#ffc107;
+}
+
+.BOOTSTRAP-green-bg {
+background-color:#28a745;
+}
+.BOOTSTRAP-green-clr {
+color:#28a745;
+}
+.BOOTSTRAP-green-brd {
+border-color:#28a745;
+}
+
+.BOOTSTRAP-teal-bg {
+background-color:#20c997;
+}
+.BOOTSTRAP-teal-clr {
+color:#20c997;
+}
+.BOOTSTRAP-teal-brd {
+border-color:#20c997;
+}
+
+.BOOTSTRAP-cyan-bg {
+background-color:#17a2b8;
+}
+.BOOTSTRAP-cyan-clr {
+color:#17a2b8;
+}
+.BOOTSTRAP-cyan-brd {
+border-color:#17a2b8;
+}
+
+.BOOTSTRAP-primary-bg {
+background-color:#007bff;
+}
+.BOOTSTRAP-primary-clr {
+color:#007bff;
+}
+.BOOTSTRAP-primary-brd {
+border-color:#007bff;
+}
+
+.BOOTSTRAP-secondary-bg {
+background-color:#6c757d;
+}
+.BOOTSTRAP-secondary-clr {
+color:#6c757d;
+}
+.BOOTSTRAP-secondary-brd {
+border-color:#6c757d;
+}
+
+.BOOTSTRAP-success-bg {
+background-color:#28a745;
+}
+.BOOTSTRAP-success-clr {
+color:#28a745;
+}
+.BOOTSTRAP-success-brd {
+border-color:#28a745;
+}
+
+.BOOTSTRAP-info-bg {
+background-color:#17a2b8;
+}
+.BOOTSTRAP-info-clr {
+color:#17a2b8;
+}
+.BOOTSTRAP-info-brd {
+border-color:#17a2b8;
+}
+
+.BOOTSTRAP-warning-bg {
+background-color:#ffc107;
+}
+.BOOTSTRAP-warning-clr {
+color:#ffc107;
+}
+.BOOTSTRAP-warning-brd {
+border-color:#ffc107;
+}
+
+.BOOTSTRAP-danger-bg {
+background-color:#dc3545;
+}
+.BOOTSTRAP-danger-clr {
+color:#dc3545;
+}
+.BOOTSTRAP-danger-brd {
+border-color:#dc3545;
+}
+
+.BOOTSTRAP-light-bg {
+background-color:#f8f9fa;
+}
+.BOOTSTRAP-light-clr {
+color:#f8f9fa;
+}
+.BOOTSTRAP-light-brd {
+border-color:#f8f9fa;
+}
+
+.BOOTSTRAP-dark-bg {
+background-color:#343a40;
+}
+.BOOTSTRAP-dark-clr {
+color:#343a40;
+}
+.BOOTSTRAP-dark-brd {
+border-color:#343a40;
+}
