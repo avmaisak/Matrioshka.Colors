@@ -49,7 +49,6 @@ gulp.task("create", () => {
 	var palettes = [];
 
 	return glob(srcDest, function(e, files) {
-
 		// each files
 		files.forEach(f => {
 			// get data from file
@@ -64,28 +63,36 @@ gulp.task("create", () => {
 				};
 
 				dataArray.forEach(data => {
+					if (data.length === 0) {
+						return;
+					}
 					let parsedObject = parseLine(data);
+					console.log(data);
 					fileName = path.basename(f).replace("scss", "css");
 					distFilePath = `${releaseDest}/${fileName}`;
 					rules.push(genCssRule(parsedObject));
-					dataItem.name = fileName.split('.')[0].trim();
-					let obj = {
-						key: parsedObject.key,
-						value: parsedObject.value.replace("\r", "")
-					};
-					dataSrc.push({obj});
+					dataItem.name = fileName.split(".")[0].trim();
+					if (parsedObject.key.length > 0) {
+						let obj = {
+							key: parsedObject.key,
+							value: parsedObject.value.replace("\r", "")
+						};
+						dataSrc.push({ obj });
+					}
 				});
 
 				dataItem.items = dataSrc;
 				var p = {
 					name: dataItem.name,
 					data: dataItem.items
-				}
+				};
 				palettes.push(p);
 
 				let fileContent = rules.join("").replace(/[\r\t]/g, "");
 
-				fs.writeFile(`../../dist/data/${dataItem.name}.json`,	JSON.stringify(dataItem),
+				fs.writeFile(
+					`../../dist/data/${dataItem.name}.json`,
+					JSON.stringify(dataItem),
 					err => {
 						if (err) throw err;
 					}
@@ -106,11 +113,9 @@ gulp.task("create", () => {
 						if (err) throw err;
 					}
 				);
-
 			});
 		});
 	});
-
 });
 
 gulp.task("default", gulp.series(["create"]));
