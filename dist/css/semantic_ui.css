@@ -1,0 +1,460 @@
+
+.SEMANTIC_UI_red-bg {
+background-color:#DB2828;
+}
+.SEMANTIC_UI_red-clr {
+color:#DB2828;
+}
+.SEMANTIC_UI_red-brd {
+border-color:#DB2828;
+}
+
+.SEMANTIC_UI_orange-bg {
+background-color:#F2711C;
+}
+.SEMANTIC_UI_orange-clr {
+color:#F2711C;
+}
+.SEMANTIC_UI_orange-brd {
+border-color:#F2711C;
+}
+
+.SEMANTIC_UI_yellow-bg {
+background-color:#FBBD08;
+}
+.SEMANTIC_UI_yellow-clr {
+color:#FBBD08;
+}
+.SEMANTIC_UI_yellow-brd {
+border-color:#FBBD08;
+}
+
+.SEMANTIC_UI_olive-bg {
+background-color:#B5CC18;
+}
+.SEMANTIC_UI_olive-clr {
+color:#B5CC18;
+}
+.SEMANTIC_UI_olive-brd {
+border-color:#B5CC18;
+}
+
+.SEMANTIC_UI_green-bg {
+background-color:#21BA45;
+}
+.SEMANTIC_UI_green-clr {
+color:#21BA45;
+}
+.SEMANTIC_UI_green-brd {
+border-color:#21BA45;
+}
+
+.SEMANTIC_UI_teal-bg {
+background-color:#00B5AD;
+}
+.SEMANTIC_UI_teal-clr {
+color:#00B5AD;
+}
+.SEMANTIC_UI_teal-brd {
+border-color:#00B5AD;
+}
+
+.SEMANTIC_UI_blue-bg {
+background-color:#2185D0;
+}
+.SEMANTIC_UI_blue-clr {
+color:#2185D0;
+}
+.SEMANTIC_UI_blue-brd {
+border-color:#2185D0;
+}
+
+.SEMANTIC_UI_violet-bg {
+background-color:#6435C9;
+}
+.SEMANTIC_UI_violet-clr {
+color:#6435C9;
+}
+.SEMANTIC_UI_violet-brd {
+border-color:#6435C9;
+}
+
+.SEMANTIC_UI_purple-bg {
+background-color:#A333C8;
+}
+.SEMANTIC_UI_purple-clr {
+color:#A333C8;
+}
+.SEMANTIC_UI_purple-brd {
+border-color:#A333C8;
+}
+
+.SEMANTIC_UI_pink-bg {
+background-color:#E03997;
+}
+.SEMANTIC_UI_pink-clr {
+color:#E03997;
+}
+.SEMANTIC_UI_pink-brd {
+border-color:#E03997;
+}
+
+.SEMANTIC_UI_brown-bg {
+background-color:#A5673F;
+}
+.SEMANTIC_UI_brown-clr {
+color:#A5673F;
+}
+.SEMANTIC_UI_brown-brd {
+border-color:#A5673F;
+}
+
+.SEMANTIC_UI_grey-bg {
+background-color:#767676;
+}
+.SEMANTIC_UI_grey-clr {
+color:#767676;
+}
+.SEMANTIC_UI_grey-brd {
+border-color:#767676;
+}
+
+.SEMANTIC_UI_black-bg {
+background-color:#1B1C1D;
+}
+.SEMANTIC_UI_black-clr {
+color:#1B1C1D;
+}
+.SEMANTIC_UI_black-brd {
+border-color:#1B1C1D;
+}
+
+.SEMANTIC_UI_lightRed-bg {
+background-color:#FF695E;
+}
+.SEMANTIC_UI_lightRed-clr {
+color:#FF695E;
+}
+.SEMANTIC_UI_lightRed-brd {
+border-color:#FF695E;
+}
+
+.SEMANTIC_UI_lightOrange-bg {
+background-color:#FF851B;
+}
+.SEMANTIC_UI_lightOrange-clr {
+color:#FF851B;
+}
+.SEMANTIC_UI_lightOrange-brd {
+border-color:#FF851B;
+}
+
+.SEMANTIC_UI_lightYellow-bg {
+background-color:#FFE21F;
+}
+.SEMANTIC_UI_lightYellow-clr {
+color:#FFE21F;
+}
+.SEMANTIC_UI_lightYellow-brd {
+border-color:#FFE21F;
+}
+
+.SEMANTIC_UI_lightOlive-bg {
+background-color:#D9E778;
+}
+.SEMANTIC_UI_lightOlive-clr {
+color:#D9E778;
+}
+.SEMANTIC_UI_lightOlive-brd {
+border-color:#D9E778;
+}
+
+.SEMANTIC_UI_lightGreen-bg {
+background-color:#2ECC40;
+}
+.SEMANTIC_UI_lightGreen-clr {
+color:#2ECC40;
+}
+.SEMANTIC_UI_lightGreen-brd {
+border-color:#2ECC40;
+}
+
+.SEMANTIC_UI_lightTeal-bg {
+background-color:#6DFFFF;
+}
+.SEMANTIC_UI_lightTeal-clr {
+color:#6DFFFF;
+}
+.SEMANTIC_UI_lightTeal-brd {
+border-color:#6DFFFF;
+}
+
+.SEMANTIC_UI_lightBlue-bg {
+background-color:#54C8FF;
+}
+.SEMANTIC_UI_lightBlue-clr {
+color:#54C8FF;
+}
+.SEMANTIC_UI_lightBlue-brd {
+border-color:#54C8FF;
+}
+
+.SEMANTIC_UI_lightViolet-bg {
+background-color:#A291FB;
+}
+.SEMANTIC_UI_lightViolet-clr {
+color:#A291FB;
+}
+.SEMANTIC_UI_lightViolet-brd {
+border-color:#A291FB;
+}
+
+.SEMANTIC_UI_lightPurple-bg {
+background-color:#DC73FF;
+}
+.SEMANTIC_UI_lightPurple-clr {
+color:#DC73FF;
+}
+.SEMANTIC_UI_lightPurple-brd {
+border-color:#DC73FF;
+}
+
+.SEMANTIC_UI_lightPink-bg {
+background-color:#FF8EDF;
+}
+.SEMANTIC_UI_lightPink-clr {
+color:#FF8EDF;
+}
+.SEMANTIC_UI_lightPink-brd {
+border-color:#FF8EDF;
+}
+
+.SEMANTIC_UI_lightBrown-bg {
+background-color:#D67C1C;
+}
+.SEMANTIC_UI_lightBrown-clr {
+color:#D67C1C;
+}
+.SEMANTIC_UI_lightBrown-brd {
+border-color:#D67C1C;
+}
+
+.SEMANTIC_UI_lightGrey-bg {
+background-color:#DCDDDE;
+}
+.SEMANTIC_UI_lightGrey-clr {
+color:#DCDDDE;
+}
+.SEMANTIC_UI_lightGrey-brd {
+border-color:#DCDDDE;
+}
+
+.SEMANTIC_UI_lightBlack-bg {
+background-color:#545454;
+}
+.SEMANTIC_UI_lightBlack-clr {
+color:#545454;
+}
+.SEMANTIC_UI_lightBlack-brd {
+border-color:#545454;
+}
+
+.SEMANTIC_UI_fullBlack-bg {
+background-color:#000000;
+}
+.SEMANTIC_UI_fullBlack-clr {
+color:#000000;
+}
+.SEMANTIC_UI_fullBlack-brd {
+border-color:#000000;
+}
+
+.SEMANTIC_UI_offWhite-bg {
+background-color:#F9FAFB;
+}
+.SEMANTIC_UI_offWhite-clr {
+color:#F9FAFB;
+}
+.SEMANTIC_UI_offWhite-brd {
+border-color:#F9FAFB;
+}
+
+.SEMANTIC_UI_darkWhite-bg {
+background-color:#F3F4F5;
+}
+.SEMANTIC_UI_darkWhite-clr {
+color:#F3F4F5;
+}
+.SEMANTIC_UI_darkWhite-brd {
+border-color:#F3F4F5;
+}
+
+.SEMANTIC_UI_midWhite-bg {
+background-color:#DCDDDE;
+}
+.SEMANTIC_UI_midWhite-clr {
+color:#DCDDDE;
+}
+.SEMANTIC_UI_midWhite-brd {
+border-color:#DCDDDE;
+}
+
+.SEMANTIC_UI_white-bg {
+background-color:#FFFFFF;
+}
+.SEMANTIC_UI_white-clr {
+color:#FFFFFF;
+}
+.SEMANTIC_UI_white-brd {
+border-color:#FFFFFF;
+}
+
+.SEMANTIC_UI_redBackground-bg {
+background-color:#FFE8E6;
+}
+.SEMANTIC_UI_redBackground-clr {
+color:#FFE8E6;
+}
+.SEMANTIC_UI_redBackground-brd {
+border-color:#FFE8E6;
+}
+
+.SEMANTIC_UI_orangeBackground-bg {
+background-color:#FFEDDE;
+}
+.SEMANTIC_UI_orangeBackground-clr {
+color:#FFEDDE;
+}
+.SEMANTIC_UI_orangeBackground-brd {
+border-color:#FFEDDE;
+}
+
+.SEMANTIC_UI_yellowBackground-bg {
+background-color:#FFF8DB;
+}
+.SEMANTIC_UI_yellowBackground-clr {
+color:#FFF8DB;
+}
+.SEMANTIC_UI_yellowBackground-brd {
+border-color:#FFF8DB;
+}
+
+.SEMANTIC_UI_oliveBackground-bg {
+background-color:#FBFDEF;
+}
+.SEMANTIC_UI_oliveBackground-clr {
+color:#FBFDEF;
+}
+.SEMANTIC_UI_oliveBackground-brd {
+border-color:#FBFDEF;
+}
+
+.SEMANTIC_UI_greenBackground-bg {
+background-color:#E5F9E7;
+}
+.SEMANTIC_UI_greenBackground-clr {
+color:#E5F9E7;
+}
+.SEMANTIC_UI_greenBackground-brd {
+border-color:#E5F9E7;
+}
+
+.SEMANTIC_UI_tealBackground-bg {
+background-color:#E1F7F7;
+}
+.SEMANTIC_UI_tealBackground-clr {
+color:#E1F7F7;
+}
+.SEMANTIC_UI_tealBackground-brd {
+border-color:#E1F7F7;
+}
+
+.SEMANTIC_UI_blueBackground-bg {
+background-color:#DFF0FF;
+}
+.SEMANTIC_UI_blueBackground-clr {
+color:#DFF0FF;
+}
+.SEMANTIC_UI_blueBackground-brd {
+border-color:#DFF0FF;
+}
+
+.SEMANTIC_UI_violetBackground-bg {
+background-color:#EAE7FF;
+}
+.SEMANTIC_UI_violetBackground-clr {
+color:#EAE7FF;
+}
+.SEMANTIC_UI_violetBackground-brd {
+border-color:#EAE7FF;
+}
+
+.SEMANTIC_UI_purpleBackground-bg {
+background-color:#F6E7FF;
+}
+.SEMANTIC_UI_purpleBackground-clr {
+color:#F6E7FF;
+}
+.SEMANTIC_UI_purpleBackground-brd {
+border-color:#F6E7FF;
+}
+
+.SEMANTIC_UI_pinkBackground-bg {
+background-color:#FFE3FB;
+}
+.SEMANTIC_UI_pinkBackground-clr {
+color:#FFE3FB;
+}
+.SEMANTIC_UI_pinkBackground-brd {
+border-color:#FFE3FB;
+}
+
+.SEMANTIC_UI_brownBackground-bg {
+background-color:#F1E2D3;
+}
+.SEMANTIC_UI_brownBackground-clr {
+color:#F1E2D3;
+}
+.SEMANTIC_UI_brownBackground-brd {
+border-color:#F1E2D3;
+}
+
+.SEMANTIC_UI_yellowTextColor-bg {
+background-color:#B58105;
+}
+.SEMANTIC_UI_yellowTextColor-clr {
+color:#B58105;
+}
+.SEMANTIC_UI_yellowTextColor-brd {
+border-color:#B58105;
+}
+
+.SEMANTIC_UI_oliveTextColor-bg {
+background-color:#8ABC1E;
+}
+.SEMANTIC_UI_oliveTextColor-clr {
+color:#8ABC1E;
+}
+.SEMANTIC_UI_oliveTextColor-brd {
+border-color:#8ABC1E;
+}
+
+.SEMANTIC_UI_greenTextColor-bg {
+background-color:#1EBC30;
+}
+.SEMANTIC_UI_greenTextColor-clr {
+color:#1EBC30;
+}
+.SEMANTIC_UI_greenTextColor-brd {
+border-color:#1EBC30;
+}
+
+.SEMANTIC_UI_tealTextColor-bg {
+background-color:#10A3A3;
+}
+.SEMANTIC_UI_tealTextColor-clr {
+color:#10A3A3;
+}
+.SEMANTIC_UI_tealTextColor-brd {
+border-color:#10A3A3;
+}
