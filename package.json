@@ -1,6 +1,6 @@
 {
 	"name": "matrioshka.colors",
-	"version": "1.0.35",
+	"version": "1.0.36",
 	"description": "Contains scss and css files with color palettes using color standarts (ncs, pantone, ral,resene, material, web-safe, x11, xkcd, iscc, nbs, crayola)",
 	"main": "index.js",
 	"keywords": [
@@ -34,7 +34,7 @@
 	},
 	"homepage": "https://matrioshka.tools/colors",
 	"devDependencies": {
-		"gulp": "^4.0.2",
-		"gulp-clean-css": "^4.2.0"
+		"gulp": "4.0.2",
+		"gulp-clean-css": "4.2.0"
 	}
 }
